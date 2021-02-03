@@ -1,2 +1,3 @@
-# Python_exercise_2
+# Python_exercise2
 python언어 연습
+nomadcoder 
